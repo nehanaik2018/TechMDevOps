@@ -1,0 +1,15 @@
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\bin\Debug\net6.0\DemoGit.exe
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\bin\Debug\net6.0\DemoGit.deps.json
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\bin\Debug\net6.0\DemoGit.runtimeconfig.json
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\bin\Debug\net6.0\DemoGit.dll
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\bin\Debug\net6.0\DemoGit.pdb
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.csproj.AssemblyReference.cache
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.AssemblyInfoInputs.cache
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.AssemblyInfo.cs
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.csproj.CoreCompileInputs.cache
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.dll
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\refint\DemoGit.dll
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.pdb
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\DemoGit.genruntimeconfig.cache
+C:\Users\rishitha\source\repos\DemoGit\DemoGit\obj\Debug\net6.0\ref\DemoGit.dll
